@@ -1,5 +1,17 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br>Building full-stack applications, REST APIs, and AI/ML projects using Python, Django, Angular, and modern tools.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, backend systems, full-stack apps, and machine learning / LLM-based solutions.<br><br>🧠 I’m looking for help with<br>System design, scalable architectures, and optimizing ML models for real-world use.<br><br>🌱 I’m currently learning<br>Advanced Python, Deep Learning, LLMs, system design, and cloud-ready application development.<br><br>💬 Ask me about<br>Python, Django, REST APIs, databases, full-stack development, machine learning, and project architecture.<br><br>⚡ Fun fact<br>I love breaking complex problems into simple logic—and I enjoy debugging almost as much as building 😄
+🛠️ Currently working on
+Building scalable backend systems and full-stack applications using Python, Django, REST APIs, and modern frameworks.
+
+🤝 Open to collaborating on
+High-impact software, backend architecture, and AI/ML-driven projects.
+
+🌱 Currently learning
+System design, advanced Python, cloud-ready architectures, and LLM-based solutions.
+
+💬 Ask me about
+Python, backend development, APIs, databases, and full-stack engineering.
+
+⚡ Fun fact
+I focus on writing clean, efficient code that solves real-world problems.
 
 
 ## 🌐 Socials:
